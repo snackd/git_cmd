@@ -2,7 +2,7 @@
 
 ###### tags: `Git`
 
-個人使用 - 學習歷程記錄
+[個人使用 - 學習歷程記錄](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/HJGPaZp7i)
 
 專案規範與範例：
 [Git Commit 規範](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
